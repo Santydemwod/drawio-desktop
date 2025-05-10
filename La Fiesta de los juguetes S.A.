@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Fiesta de los juguetes S.A.</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="LogoS.A.jpeg" alt="LogoS.A">
+        <h1>Jugueterias S.A. </h1>
+    </header>
+    
+    <main>
+        <a href="Juguete.html" class="btn-iniciar">INICIAR</a>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 JuguetesPorElMundo | Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
+
